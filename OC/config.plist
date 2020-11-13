@@ -322,7 +322,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>BwCbPg==</data>
+				<data>AwDImw==</data>
 				<key>device-id</key>
 				<data>mz4AAA==</data>
 			</dict>
@@ -986,7 +986,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 -alcdbg -liludbg -wegdbg</string>
+				<string>-v keepsyms=1 debug=0x100 -alcdbg -liludbg -wegdbg agdpmod=pikera</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
